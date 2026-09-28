@@ -1,4 +1,4 @@
-# Proyecto2_KatasJS
+# Proyecto3_Python
 
 ### EJERCICIO 1:
 
